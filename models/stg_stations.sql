@@ -1,5 +1,5 @@
 SELECT
-    station_id,
+    station_id, council_district,
     CASE
         WHEN property_type IN ('parkland', 'sidewalk', 'nonmetered_parking') THEN 'free_parking'
         ELSE property_type

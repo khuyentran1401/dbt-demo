@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: stg_stations
-    description: This model represents a staging table for station data. 
+    description: This model creates station data. 
     columns:
     - name: station_id
       description: A unique identifier for each station
@@ -10,12 +10,12 @@ models:
         - not_null
         - unique
     - name: property_type
-      description: A categorization of the type of property associated with the station
+      description: The type of property for each station
       tests:
         - accepted_values:
             values: ['free_parking', 'paid_parking']
   - name: stg_trips
-    description: This model represents a staging table for trip data.
+    description: This model creates trip data.
     columns:
     - name: start_station_id
       description: The unique identifier for the station where each trip started
