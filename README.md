@@ -3,7 +3,7 @@
 dbt demo
 </h3>
 
-[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blue?logo=medium)](https://towardsdatascience.com/what-is-dbt-data-build-tool-and-when-should-you-use-it-9dc1566d960d?sk=7232ae82998f3679f41dafaa9981dedb)
+[![View Article](https://img.shields.io/badge/View-Article-blue)](https://mathdatasimplified.com/2023/05/01/build-an-efficient-data-pipeline-is-dbt-the-key/)
  
 Demo for the article _What is dbt (data build tool) and When should you use it?_
 
