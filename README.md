@@ -5,7 +5,7 @@ dbt demo
 
 [![View Article](https://img.shields.io/badge/View-Article-blue)](https://mathdatasimplified.com/2023/05/01/build-an-efficient-data-pipeline-is-dbt-the-key/)
  
-Demo for the article _What is dbt (data build tool) and When should you use it?_
+Demo for the article _Build an Efficient Data Pipeline: Is dbt the Key?_
 
 </div>
 
