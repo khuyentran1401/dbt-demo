@@ -21,7 +21,7 @@ models:
       description: The unique identifier for the station where each trip started
       tests: 
         - not_null
-  - name: trips_per_property_pair
+  - name: trips_per_property
     description: This model aggregates data from the stg_trips and stg_stations tables to calculate the number of trips between each pair of property types
     columns:
     - name: property_type
